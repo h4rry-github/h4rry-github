@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**h4rry-github/h4rry-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## h4rry
+Hi there ⭐  
+I'm currently interested in C/C++ programming, Algorithm, PS w/ code golfing, and Number theory!  
+___
+### My PS Profiles
+<div align="center"><b>solved.ac</b> Diamond 💎</div>
+<div align="center">[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=h4rry)](https://solved.ac/h4rry)</div>
+<br />
+<div align="center"><b>Codeforces</b></div>
+<div align="center">[![CodeForces Profile](https://cf.leed.at?id=h4rry_cf)](https://codeforces.com/profile/h4rry_cf)</div>
