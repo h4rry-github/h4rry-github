@@ -7,6 +7,7 @@ ___
   <tr>
     <td colspan="2>
       <div align="center"><b>solved.ac</b> Diamond 💎</div>
+      <br />
       <div align="center">
         <a href="https://solved.ac/h4rry">
           <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=h4rry" />
