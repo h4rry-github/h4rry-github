@@ -2,7 +2,7 @@
 Hi there ⭐  
 I'm currently interested in C/C++ programming, Algorithm, PS w/ code golfing, and Number theory!  
 ___
-### My PS Profiles
+### * My PS Profiles
 <table align="center">
   <tr>
     <td colspan="2">
