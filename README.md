@@ -9,7 +9,7 @@ ___
       <div align="center"><b>solved.ac</b> Diamond 💎</div>
       <div align="center">
         <a href="https://solved.ac/h4rry">
-          <table>
+          <table style="border: none">
             <tr>
               <td>
                 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=h4rry" />
