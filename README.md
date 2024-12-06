@@ -2,7 +2,21 @@
 Hi there ⭐  
 I'm currently interested in C/C++ programming, Algorithm, PS w/ code golfing, and Number theory!  
 ___
-### * My PS Profiles
+### My Skills
+* Programming Languages
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,r,js,lua" />
+  </a>
+</div>
+* Tools
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,processing,p5js,threejs" />
+  </a>
+</div>
+___
+### My PS Profiles
 <table align="center">
   <tr>
     <td colspan="2">
