@@ -9,13 +9,13 @@ ___
       <div align="center"><b>solved.ac</b> Diamond 💎</div>
       <div align="center">
         <a href="https://solved.ac/h4rry">
-          <table style="border: none">
+          <table>
             <tr>
               <td>
                 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=h4rry" />
               </td>
               <td>
-                <img src="http://mazandi.herokuapp.com/api?handle=h4rry&theme=dark"/>
+                <img src="http://mazandi.herokuapp.com/api?handle=h4rry&theme=dark" />
               </td>
             </tr>
           </table>
