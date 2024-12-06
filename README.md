@@ -5,7 +5,7 @@ ___
 ### My PS Profiles
 <table>
   <tr>
-    <td colspan="2>
+    <td colspan="2">
       <div align="center"><b>solved.ac</b> Diamond 💎</div>
       <br />
       <div align="center">
