@@ -9,8 +9,8 @@ ___
       <div align="center"><b>solved.ac</b> Diamond 💎</div>
       <div align="center">
         <a href="https://solved.ac/h4rry">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=h4rry" />
-          <img src="http://mazandi.herokuapp.com/api?handle=h4rry&theme=dark"/>
+          <img display="inline-block" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=h4rry" />
+          <img display="inline-block" src="http://mazandi.herokuapp.com/api?handle=h4rry&theme=dark"/>
         </a>
       </div>
     </td>
