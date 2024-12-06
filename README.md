@@ -4,18 +4,16 @@ I'm currently interested in C/C++ programming, Algorithm, PS w/ code golfing, an
 ___
 ### My Skills
 * Programming Languages
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,r,js,lua" />
-  </a>
-</div>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,r,js,lua" />
+</a>
+
 
 * Tools
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,processing,p5js,threejs" />
-  </a>
-</div>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,processing,p5js,threejs" />
+</a>
+
 ___
 ### My PS Profiles
 <table align="center">
