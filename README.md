@@ -59,3 +59,7 @@ ___
     </td>
   </tr>
 </table>
+
+___
+### My Work Experiences
+* 24-2 	Object-Oriented Programming(CSC2003) TA (24.10 ~ 24.12)
