@@ -6,7 +6,7 @@ ___
 * Programming Languages
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,r,js,lua" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,r,js,lua,java" />
   </a>
 </div>
 <br />
