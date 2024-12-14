@@ -22,7 +22,7 @@ ___
 ### My PS Profiles
 <table align="center">
   <tr>
-    <td colspan="2">
+    <td>
       <div align="center"><b>solved.ac</b> Diamond 💎</div>
       <div align="center">
         <a href="https://solved.ac/h4rry">
