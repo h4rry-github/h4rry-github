@@ -41,26 +41,28 @@ ___
     </td>
   </tr>
   <tr>
-    <table>
-      <tr>
-        <td>
-          <div align="center"><b>Codeforces</b></div>
-          <div align="center">
-            <a href="https://codeforces.com/profile/h4rry_cf">
-              <img src="https://cf.leed.at?id=h4rry_cf" />
-            </a>
-          </div>
-        </td>
-        <td>
-          <div align="center"><b>Atcoder</b></div>
-          <div align="center">
-            <a href="https://atcoder.jp/users/h4rry_ac">
-              <img src="https://atcoder-badge.kro.kr?id=h4rry_ac" />
-            </a>
-          </div>
-        </td>
-      </tr>
-    </table>
+    <div align="center">
+      <table>
+        <tr>
+          <td>
+            <div align="center"><b>Codeforces</b></div>
+            <div align="center">
+              <a href="https://codeforces.com/profile/h4rry_cf">
+                <img src="https://cf.leed.at?id=h4rry_cf" />
+              </a>
+            </div>
+          </td>
+          <td>
+            <div align="center"><b>Atcoder</b></div>
+            <div align="center">
+              <a href="https://atcoder.jp/users/h4rry_ac">
+                <img src="https://atcoder-badge.kro.kr?id=h4rry_ac" />
+              </a>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </div>
   </tr>
 </table>
 
